@@ -1,1 +1,1 @@
-my first devops readme
+‘This repository contains solutions to shell tasks’
